@@ -7,4 +7,4 @@ encabezados y pie de página
 alineación centralizada,
 modificación del número de página 
 
-link del archivo [[ clase-8]] 
+link del archivo [[https://docs.google.com/document/d/12QE6siVWi3LFH-6E8McaZ0lqDcMd9KkYlKDgRIY_GE0/edit?usp=sharing]] 
